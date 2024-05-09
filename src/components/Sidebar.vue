@@ -74,7 +74,7 @@ export default {
                 path: '/tool',
                 children: [
                     {
-                        path: '/json',
+                        path: '/json_format',
                         meta: { title: 'Json格式化'}
                     }
                 ]

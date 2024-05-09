@@ -1,4 +1,4 @@
-# luckysheet
+# Tool
 
 ## Project setup
 ```

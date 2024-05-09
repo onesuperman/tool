@@ -10,9 +10,9 @@ const routes = [
         component: () => import('@/views/home/home.vue')
     },
     {
-        path: '/json',
-        name: 'json',
-        component: () => import('@/views/tool/json.vue')
+        path: '/json_format',
+        name: 'json_format',
+        component: () => import('@/views/tool/json_format.vue')
     }
 ]
 const router = new vueRouter({
